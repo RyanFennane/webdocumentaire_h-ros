@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <router-view/>
+    <transition name="page" mode="out-in">
+      <router-view/>
+    </transition>
   </div>
 </template>
 
@@ -31,5 +33,11 @@ body
   margin: 0
   padding: 0
   overflow: hidden
+
+.page-enter-active, .page-leave-active
+  transition: opacity 0.8s ease-out
+
+.page-enter, .page-leave-to
+  opacity: 1
 
 </style>
