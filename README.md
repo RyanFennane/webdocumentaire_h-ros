@@ -1,1 +1,12 @@
-# webdocumentaire_h-ros
+# Semaine Intensive PHP | Équipe 02
+&nbsp;
+
+Ce projet a été mené dans le cadre d'une semaine intensive à **HETIC**.
+
+Remerciement à **Bastien Calou**, **François Pumir** & **Pierre De Gourcy** pour ses conseils avisés durant cette semaine intensive ! 
+
+[Lien GitHub](https://github.com/RyanFennane/webdocumentaire_h-ros)
+&nbsp;
+
+[Lien du site internet](#)
+
