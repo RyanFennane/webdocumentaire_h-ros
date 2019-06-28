@@ -3,13 +3,19 @@
     <transition name="page" mode="out-in">
       <router-view/>
     </transition>
+    <bottombar></bottombar>
   </div>
 </template>
 
 <script>
 
+import bottombar from '@/components/Bottombar.vue'
+
 export default {
-  name: 'app'
+  name: 'app',
+  components: {
+    bottombar
+  }
 }
 
 </script>
@@ -33,6 +39,7 @@ body
   margin: 0
   padding: 0
   overflow: hidden
+  background: #000000
 
 .page-enter-active, .page-leave-active
   transition: opacity 0.8s ease-out
