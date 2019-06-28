@@ -7,6 +7,3 @@ Remerciement à **Bastien Calou**, **François Pumir** & **Pierre De Gourcy** po
 
 [Lien GitHub](https://github.com/RyanFennane/webdocumentaire_h-ros)
 &nbsp;
-
-[Lien du site internet](#)
-
