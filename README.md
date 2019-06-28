@@ -1,4 +1,4 @@
-# Semaine Intensive PHP | Équipe 02
+# Semaine Intensive PHP | Équipe 12
 &nbsp;
 
 Ce projet a été mené dans le cadre d'une semaine intensive à **HETIC**.
